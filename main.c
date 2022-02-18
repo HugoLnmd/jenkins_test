@@ -2,7 +2,7 @@
 
 int main() {
 
-   printf("Hello World -Jenkins test-");
+   printf("Hello World -Jenkins-test-");
    
    return 0;
 }
