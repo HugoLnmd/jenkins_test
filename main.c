@@ -2,7 +2,7 @@
 
 int main() {
 
-   printf("Hello World -Jenkins-test-");
+   printf("Hello, update at 13:48");
    
    return 0;
 }
