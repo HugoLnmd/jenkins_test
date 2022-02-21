@@ -2,7 +2,7 @@
 
 int main() {
 
-   printf("Test commit message 1\n");
+   printf("JENKINS COMPILATION AND RUN C : OK\n");
    
    return 0;
 }
