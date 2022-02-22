@@ -2,7 +2,7 @@
 
 int main() {
 
-   printf("JENKINS COMPILATION AND RUN C : OK 22/02\n");
+   printf("Hello Jenkins\n");
    
    return 0;
 }
